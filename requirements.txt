@@ -1,0 +1,4 @@
+google-cloud-storage
+google-cloud-resource-manager
+termcolor
+print2
