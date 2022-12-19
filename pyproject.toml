@@ -21,9 +21,9 @@ classifiers = [
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/jerob/GCPScanner"
-documentation = "https://github.com/jerob/GCPScanner/blob/main/README.md"
-"Bug Tracker" = "https://github.com/jerob/GCPScanner/issues"
+"Homepage" = "https://github.com/jerob/GCScanner"
+documentation = "https://github.com/jerob/GCScanner/blob/main/README.md"
+"Bug Tracker" = "https://github.com/jerob/GCScanner/issues"
 
 [project.optional-dependencies]
 dev = ["black", "flake8", "pytest"]
